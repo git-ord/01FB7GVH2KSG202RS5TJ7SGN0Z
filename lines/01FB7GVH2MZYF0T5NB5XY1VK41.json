@@ -1,0 +1,32 @@
+{
+  "id": "01FB7GVH2MZYF0T5NB5XY1VK41",
+  "created_at": "2021-07-22T16:30:23+00:00",
+  "updated_at": "2021-07-22T16:30:23+00:00",
+  "name": "Practical Wooden Chair",
+  "images": {
+    "thumb": null,
+    "full": "http://placeimg.com/640/480/fashion"
+  },
+  "status": "unpaid",
+  "customer_notes": "",
+  "admin_notes": "",
+  "variant": null,
+  "dimensions": [
+
+  ],
+  "quantity": {
+    "amount": 9,
+    "unit": "each"
+  },
+  "unit_price": {
+    "amount": 467,
+    "currency": "USD"
+  },
+  "subtotal": {
+    "amount": 4203,
+    "currency": "USD"
+  },
+  "discounts": [
+
+  ]
+}
